@@ -1,0 +1,9 @@
+.d-flex{
+    display: flex;
+}
+.jc-between{
+    justify-content: space-between;
+}
+.text-justify{
+    text-align: justify;
+}
